@@ -1,0 +1,18 @@
+
+https://api.927jx.com/wab/api.php
+
+post	«Î«Û
+
+
+url:https://www.iqiyi.com/v_19ru7rw8ns.html
+referer:aHR0cHM6Ly9hcGkuOTI3anguY29tL3ZpcC8/dXJsPWh0dHBzOi8vd3d3LmlxaXlpLmNvbS92XzE5cnU3cnc4bnMuaHRtbA==
+ref:0
+time:1569224468
+type:
+other:aHR0cHM6Ly93d3cuaXFpeWkuY29tL3ZfMTlydTdydzhucy5odG1s
+
+
+
+
+https://api.927jx.com/vip/?url=https://www.iqiyi.com/v_19ru7rw8ns.html
+https://v.qq.com/x/cover/6101d0cbs6uqeee.html
